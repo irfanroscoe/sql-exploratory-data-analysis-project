@@ -593,7 +593,3 @@ This project is available for educational and commercial use.
 - Inspired by real-world data warehousing best practices
 - Built using Microsoft SQL Server
 - Follows dimensional modeling principles from industry standards
-
-- Inspired by real-world data warehousing best practices
-- Built using Microsoft SQL Server
-- Follows dimensional modeling principles from industry standards
