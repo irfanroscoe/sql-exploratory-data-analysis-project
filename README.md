@@ -584,7 +584,7 @@ This project is available for educational and commercial use.
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@irfanroscoe](https://github.com/irfanroscoe)
+- GitHub: [@irfanibrahimy](https://github.com/irfanibrahimy)
 - LinkedIn:
 
 ---
